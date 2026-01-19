@@ -1,5 +1,5 @@
-## Project Summary
-# 📄 View Full Portfolio (PDF)
+# Project Summary -
+## 📄 View Full Portfolio (PDF)
 👉 **[Click here to view the complete Business Operations Internship Portfolio](https://drive.google.com/file/d/16BdQghENyau_-1hkmgZistGY0cG55Rog/view?usp=drive_link)**
 
 This repository showcases my **Business Operations Internship Portfolio** from my Summer 2024 internship at Chick-fil-A Conyers. The project documents how I applied data analysis, operational metrics, and process improvement methods to real-world restaurant operations, with a focus on improving service speed, customer experience, and operational efficiency.
